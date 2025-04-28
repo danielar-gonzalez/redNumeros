@@ -5,3 +5,5 @@ Este proyecto tiene como objetivo construir un modelo de reconocimiento de dígi
 **Documentos incluídos en este repositorio:**
 - [Reporte en formato ipynb](./RedesNeuronales.ipynb)
 - [Reporte en formato html](./RedesNeuronales.html)
+
+Adicionalmente se incluyen las fotos que se crearon de los dígitos.
